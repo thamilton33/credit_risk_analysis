@@ -8,19 +8,19 @@ In this challenge we used various models and techniques to find a better way to 
 
 ### Random Over Sampling
 
-![](visuals/Random_Oversampling.png)
+![](Visuals/Random_Oversampling.png)
 
 ### SMOTE Over Sampling
-![](visuals/SMOTE_Oversampling.png)
+![](Visuals/SMOTE_Oversampling.png)
 
 ### Under Sampling 
-![](visuals/Under_Sampling.png)
+![](Visuals/Under_Sampling.png)
 
 ### Combination Sampling 
-![](visuals/combination_sampling.png)
+![](Visuals/combination_sampling.png)
 ### Easy Ensemble Classifier 
-![](visuals/easy_ensemble_adaboost.png)
+![](Visuals/easy_ensemble_adaboost.png)
 ## Summary 
 The final conclusion that I arrived to with the summary below is that the "Easy Ensemble Classifier" method had the highest success rate in terms of BAS, precision, and recall. 
 
-![](visuals/summary.png)
+![](Visuals/summary.png)
